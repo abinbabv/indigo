@@ -4,7 +4,8 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>• My specialities include quickly learning new skills, programming languages, frameworks and problem solving.
+<p>
+• My specialities include quickly learning new skills, programming languages, frameworks and problem solving.
 
 • So far I have HTML, CSS, SASS, Gulp, Bootstrap, C Programming, Python and Git/Github under my belt.
 
@@ -17,19 +18,19 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Sass)</li>
+	<li>HTML5</li>
+	<li>CSS3 (Sass)</li>
 	<li>Css Frameworks (Bootstrap)</li>
+	<li>Responsive (Mobile First)</li>
 	<li>Javascript</li>
 	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>ReactJS</li>
+	<li>Gulp</li>
 	<li>Git</li>
-	<li>PHP</li>
+	<li>C Programming</li>
 	<li>Python</li>
-	<li>MySQL</li>
-	
+	<li>PHP</li>
+	<li>MySQL</li>	
 	
 </ul>
 
