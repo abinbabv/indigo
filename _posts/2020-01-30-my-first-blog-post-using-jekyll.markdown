@@ -1,8 +1,8 @@
 ---
-title: "MY FIRST BLOG POST USING JEKYLL"
+title: "Hello World!"
 layout: post
 date: 2021-01-30 16:44
-image: /assets/images/markdown.jpg
+image:
 headerImage: false
 tag:
 - blog
@@ -13,6 +13,6 @@ author: abinbabu
 description: Hello World!
 ---
 
+## Hello World!
 
-
-##Hello World!
+#### This is Abin.
