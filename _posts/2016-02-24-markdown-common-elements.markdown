@@ -8,7 +8,7 @@ tag:
 - markdown
 - elements
 star: true
-category: projects
+category: blog
 author: abinbabu
 description: Markdown summary with different options
 ---
