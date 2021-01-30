@@ -7,7 +7,6 @@ headerImage: false
 tag:
 - blog
 - post
-star: true
 category: blog
 author: abinbabu
 description: Hello World!
