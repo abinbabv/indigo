@@ -7,8 +7,7 @@ description:
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: https://drive.google.com/file/d/1w128PuShJIMCfj8oK8HSTfx2MhcwytEp/view?usp=drivesdk
-
+picture: assests/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
@@ -67,7 +66,7 @@ width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
-  enabled: false
+  enabled: true
   sort_reverse: true # display recent posts first
   title: ":title" # Changing this will mess up the header display logic
   per_page: 5
