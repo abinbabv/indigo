@@ -11,7 +11,7 @@ layout: page
 <ul class="skill-list">
 	<li>HTML5</li>
 	<li>CSS3 (Sass)</li>
-	<li>Css Frameworks (Bootstrap)</li>
+	<li>Bootstrap</li>
 	<li>Responsive (Mobile First)</li>
 	<li>Javascript</li>
 	<li>NodeJS</li>
@@ -25,7 +25,7 @@ layout: page
 	
 </ul>
 
-<h2>Contact me</h2>
+<h2>Contact</h2>
 
 <ul>
 	<li>Feel free to ping me <a href="mailto:mail@abinbabu.in">here</a></li>
