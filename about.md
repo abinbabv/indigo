@@ -28,6 +28,6 @@ layout: page
 <h2>Contact me</h2>
 
 <ul>
-	<li>Feel free to ping me<a href="mailto:mail@abinbabu.in"></a>here</li>
+	<li>Feel free to ping me <a href="mailto:mail@abinbabu.in">here</a></li>
 
 </ul>
