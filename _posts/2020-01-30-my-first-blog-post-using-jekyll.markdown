@@ -9,7 +9,7 @@ tag:
 - post
 category: blog
 author: abinbabu
-description: Hello World!
+description: My first blog post using Jekyll
 ---
 
 ## Hello World!
