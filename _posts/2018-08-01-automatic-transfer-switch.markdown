@@ -1,18 +1,18 @@
-
 ---
 title: "Automatic Transfer Switch (ATS)"
 layout: post
-date: 2018-08-01 22:10
-tag: projects
-image: false
-headerImage: false
+date: 2018-08-23 22:10
+tag: project
+image: 
+headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: 
+description: It is used to transfer the load among several power sources to ensure continuous operation of load. It is required in developing countries where frequent power failure is an intense issue.
 category: project
 author: abinbabu
 externalLink: false
 ---
+
 
 ## Automatic Transfer Switch (ATS) - Fed up of constant Power Outages? Worry No More!
 
