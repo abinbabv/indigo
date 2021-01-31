@@ -27,4 +27,4 @@ layout: page
 
 <h2>Contact</h2>
 
-Feel free to ping me <a href="mailto:mail@abinbabu.in">here</a></li>
+Feel free to ping me <a href="mailto:mail@abinbabu.in">here</a>
