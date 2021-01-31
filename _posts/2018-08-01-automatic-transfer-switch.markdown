@@ -4,7 +4,7 @@ layout: post
 date: 2018-08-23 22:10
 tag: project
 image: 
-headerImage: true
+headerImage:
 projects: true
 hidden: true # don't count this post in blog pagination
 description: Fed up of constant Power Outages? Worry No More!
