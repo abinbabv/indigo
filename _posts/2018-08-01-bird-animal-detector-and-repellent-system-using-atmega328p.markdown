@@ -8,10 +8,11 @@ tag:
 - projects
 - wild animals
 - atmega328p
-category: projects
+category: project
 projects: true
+hidden: true # don't count this post in blog pagination
 author: abinbabu
-description: Markdown summary with different options
+description: 
 ---
 
 ## Protect your crops & keep farming without hurting them!
