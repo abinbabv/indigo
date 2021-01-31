@@ -7,14 +7,14 @@ image:
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: It is used to transfer the load among several power sources to ensure continuous operation of load. It is required in developing countries where frequent power failure is an intense issue.
+description: Fed up of constant Power Outages? Worry No More!
 category: project
 author: abinbabu
 externalLink: false
 ---
 
 
-## Automatic Transfer Switch (ATS) - Fed up of constant Power Outages? Worry No More!
+## Fed up of constant Power Outages? Worry No More!
 
 Automatic Transfer Switch is used to transfer the load among several power sources to ensure continuous operation of load. It is required in developing countries where frequent power failure is an intense issue. Industries, public and private sector organizations and even domestic users cannot tolerate power outage because it pushes them to lose business, interrupt in normal official work, hindrance in routine and domestic life. In this project, we have emphasized the use of good interface in terms of switching speeds and smooth transitions. Transfer switch is mostly using for computers and servers where continues power is necessary.
 
