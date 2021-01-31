@@ -40,3 +40,7 @@ When the power goes out, everything will go dark if you have a manual transfer s
 
 The primary advantage of an automatic transfer switch is the lower cost to design, fabricate and install it. It’s also smaller in size, faster to fabricate, and easier to install and maintain than an automatic transfer switch. The extra investment required to install and maintain an automatic transfer switch may be worth it if you live in an area prone to regular power outages. A lack of power interruption is also necessary for some types of businesses, including hospitals and data centers, where losing power could have serious, even life-threatening consequences.
 
+## REFERENCE
+
+1. Critical-Power Automatic Transfer Systems – Design and Application by Bill Brown, P.E., Jay Guditis, Square D Critical Power Competency Center
+
