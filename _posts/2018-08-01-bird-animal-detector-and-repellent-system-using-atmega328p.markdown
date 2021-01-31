@@ -8,7 +8,7 @@ tag:
 - projects
 - wild animals
 - atmega328p
-category: blog
+category: pojects
 author: abinbabu
 description: Markdown summary with different options
 ---
