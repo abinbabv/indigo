@@ -16,7 +16,6 @@ author: abinbabu
 description: 
 ---
 
-## Protect your crops & keep farming without hurting them!
 
 Bird animal detector and repellent system is an electromagnetic sensing system that gives safety and security to human life by preventing unwanted interference of birds and animals in human habitat. 
 Agricultural sector and maintenance of building infrastructure suffers great threat thanks to animal attack, this is often controlled and rectified by a repelling system incorporating a PIR sensor, ATmega328P and a frequency generator.
