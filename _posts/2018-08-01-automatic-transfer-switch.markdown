@@ -4,8 +4,6 @@ title: "Automatic Transfer Switch (ATS)"
 layout: post
 date: 2018-08-01 22:10
 tag: projects
-electronics
-
 image: false
 headerImage: false
 projects: true
