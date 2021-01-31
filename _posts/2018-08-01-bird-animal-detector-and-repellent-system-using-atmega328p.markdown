@@ -4,6 +4,7 @@ layout: post
 date: 2019-08-24 22:48
 tag:
 - projects
+- electronics
 - wild animals
 - atmega328p
 image: false
