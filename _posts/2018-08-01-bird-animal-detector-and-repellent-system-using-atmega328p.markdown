@@ -2,15 +2,15 @@
 title: "Bird Animal Detector and Repellent system using ATmega328P"
 layout: post
 date: 2019-08-24 22:48
-image: false
-headerImage: false
 tag:
 - projects
 - wild animals
 - atmega328p
-category: project
+image: false
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
+category: project
 author: abinbabu
 description: 
 ---
