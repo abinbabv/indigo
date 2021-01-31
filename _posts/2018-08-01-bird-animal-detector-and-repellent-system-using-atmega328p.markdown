@@ -9,7 +9,7 @@ tag:
 image: false
 headerImage: false
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: true #don't count this post in blog pagination
 category: project
 author: abinbabu
 description: 
