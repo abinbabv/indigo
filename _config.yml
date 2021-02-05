@@ -1,6 +1,6 @@
 # main text of home
 name: Abin Babu
-bio: AEI Undergrad | Frontend Web Developer | nomad
+bio: aei undergrad | frontend web developer | nomad
 # twitter summary info
 description: Seeking entry-level programming positions from potential employers.
 
@@ -52,7 +52,7 @@ email: mail@abinbabu.in
 authors:
   abinbabu:
     name: Abin Babu
-    bio: AEI Undergrad | Frontend Web Developer | nomad
+    bio: aei undergrad | frontend web developer | nomad
     external-image: false
     picture: assets/images/profile.jpg
     twitter: abinbabv
